@@ -14,10 +14,3 @@ It is a online burger builder website which allow customer customize their burge
 * NPM , Jest
 * Firebase
 * Http / Ajax
-
-## What I learned:
-* Build powerful, fast, user-friendly and reactive web app.
-* Forms and form validation in React apps.
-* A deep dive into the internals of React and advanced component features.
-* Styling of React components.
-* Unit testing.
